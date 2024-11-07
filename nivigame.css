@@ -34,7 +34,7 @@ h1 {
 }
 
 .character-part {
-    width: 100%;
+    width: 25%;
     height: auto;
     border-radius: 10px;
     cursor: pointer;
